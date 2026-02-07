@@ -8,4 +8,4 @@ repository = "https://github.com/ozacod/zed-doxygen"
 
 [grammars.doxygen]
 repository = "https://github.com/ozacod/tree-sitter-doxygen"
-commit = "bb6f40c239c6eeeb593702ae452f9ca1883391c8"
+commit = "d74754b74100a5f8eb5981f4a1323127750c9b30"
