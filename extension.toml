@@ -1,0 +1,11 @@
+id = "doxygen"
+name = "Doxygen"
+description = "Doxygen documentation comment support for C, C++, and other languages."
+version = "0.1.0"
+schema_version = 1
+authors = ["ozacod"]
+repository = "https://github.com/ozacod/zed-doxygen"
+
+[grammars.doxygen]
+repository = "https://github.com/tree-sitter-grammars/tree-sitter-doxygen"
+commit = "ccd998f378c3f9345ea4eeb223f56d7b84d16687"
